@@ -7,9 +7,9 @@ $ python predict_dog.py
 Pour obtenir la classe prédite par le modèle sur chacune des images copiées
 
 Exemple de sortie produite:
-all_classes/n02088094_908.jpg: Afghan_Hound
-all_classes/n02099712_2668.jpg: Labrador_Retriever
-all_classes/n02100735_4333.jpg: English_Setter
+inference/n02088094_908.jpg: Afghan_Hound
+inference/n02099712_2668.jpg: Labrador_Retriever
+inference/n02100735_4333.jpg: English_Setter
 
 
 
